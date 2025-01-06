@@ -1,0 +1,21 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #f6eeee;
+    color: #3e3e3e;
+    margin: 40px auto;
+    line-height: 1.5;
+    max-width: 650px;
+}
+
+a:hover {
+    color: brown;
+}
+
+a {
+    font-style: italic;
+    color: #3e3e3e
+}
+
+td {
+    padding-right: 2em;
+}
