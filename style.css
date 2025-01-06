@@ -19,3 +19,20 @@ a {
 td {
     padding-right: 2em;
 }
+
+div.flexbox {
+    display: flex;
+    width: 100%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+div.flexbox .element {
+  padding: 10px;
+  flex-grow: 1;
+}
+
+img.selfie {
+    max-height: 300px;
+    width: auto;
+}

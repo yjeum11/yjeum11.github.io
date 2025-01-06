@@ -11,7 +11,7 @@
             </header>
             <div class=flexbox>
                 <div class=element>
-                    <img src=assets/me.jpg/ class=selfie>
+                    <img src=assets/me.jpg/ style=width:100%>
                 </div>
                 <div class=element>
                     <p>
