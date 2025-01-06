@@ -5,6 +5,7 @@ body {
     margin: 40px auto;
     line-height: 1.5;
     max-width: 650px;
+    font-size: 18px
 }
 
 a:hover {
@@ -28,8 +29,8 @@ div.flexbox {
 }
 
 div.flexbox .element {
-  padding: 10px;
-  flex-grow: 1;
+    padding: 10px;
+    flex-grow: 1;
 }
 
 img.selfie {
